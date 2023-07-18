@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jardiel Ryan 👋
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/jardiel-ryan-70745b242](https://www.linkedin.com/in/jardiel-ryan-70745b242))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardiel-ryan-70745b242)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jardiel.ryan)
 
 ![DevBLL GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBLL&show_icons=true&theme=radical)
